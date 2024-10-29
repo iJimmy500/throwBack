@@ -13,8 +13,8 @@ from colorama import Fore, Style, init
 customtkinter.set_appearance_mode("dark")
 customtkinter.set_default_color_theme("dark-blue")
 
-API_KEY = 'dc223d0162eed54cacd81a581a219b44'
-API_SECRET = '588fcc02dfb549a295139437e4b78477'
+API_KEY = 'REDACTED'
+API_SECRET = 'REDACTED'
 
 today_date = datetime.date.today()  
 realDate = today_date.strftime("%B %d")  
